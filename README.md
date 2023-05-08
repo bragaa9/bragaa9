@@ -1,16 +1,13 @@
-### Hi there 👋
+__CONHEÇA MEU PERFIL!__
+ 
+ Meu nome é Fabyola Braga 
+ 
+Estoou estudando na  [Alura](https://WWW.alura.com.br) 
+Estou me desenvolvendo na línguagem  JavaScript 
+Utilizo  esse espaço para minha organização o compartilhamneto dos meus projetos desenvolvidos  
 
-<!--
-**bragaa9/bragaa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+Você entrar em contato comigo 📫
+fabyola.lima@escola,pr.gov.br 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fabyola  
