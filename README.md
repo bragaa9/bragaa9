@@ -4,6 +4,7 @@ __CONHEÇA MEU PERFIL!__
  
 Estoou estudando na  [Alura](https://WWW.alura.com.br) 
 Estou me desenvolvendo na línguagem  JavaScript 
+
 Utilizo  esse espaço para minha organização o compartilhamneto dos meus projetos desenvolvidos  
 
   
