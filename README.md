@@ -8,6 +8,6 @@ Utilizo  esse espaço para minha organização o compartilhamneto dos meus proje
 
   
 Você entrar em contato comigo 📫
-fabyola.lima@escola,pr.gov.br 
+fabyola.lima@escola.pr.gov.br 
 
 Fabyola  
